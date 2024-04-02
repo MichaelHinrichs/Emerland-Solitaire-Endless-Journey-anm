@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Emerland_Solitaire_Endless_Journey_anm</RootNamespace>
+  </PropertyGroup>
+
+</Project>
